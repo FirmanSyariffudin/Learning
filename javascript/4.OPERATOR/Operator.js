@@ -1,0 +1,7 @@
+"Operator ialah symbol yang akan melakukan operasi"
+"Macam Operator = Aritmatika, Penugasan, Perbandingan, Logika, String,(Ialah Operator Binary), Kondisional (Ialah Operator Ternary), Typeof (Ialah Operator Unary)"
+"Unary= Sebuah operator membutuhkan 1 operand = operand operator atau kebalikannya (1+ atau +1)"
+"Binary= Sebuah operator membutuhkan 2 operand = operand1 operator operand2 (1+1)"
+"Ternary= Sebuah operator membutuhkan 3 operand"
+"Urutan Operasi Matematika (KuKaBaTaKu= () * / + - ) kurung kali bagi tambah kurang"
+"Penugasan seperti x = 10 (menugaskan operand x kedalam operand 10)"

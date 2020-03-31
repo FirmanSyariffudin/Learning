@@ -1,0 +1,8 @@
+"Didalam Javascript tidak ada yang namanya INTEGER (Bilangan bulat) yang ada hanya FLOATING POINT (Bilangan Pecahan)"
+"Mampu menyimpan angka sejumlah 64 bit = 2 pangkat 64 = 18 x 1000 000 000 000 000 000 000"
+"tapi tidak bisa dipakai semua"
+"jika menggunakan koma ialah pakai titik ."
+"bisa menyimpan bilangan eksponen  123e-5 menjadi 0.00123"
+"Jangan mengawali angka javascript dengan 0, karena akan dianggap sebagai bilangan oktal / hexadesimal"
+"Angka Special = Infinity= 2/0, -infinity, NAN(Not A Number)= 100/'apel'"
+"jika membagi bilangan dengan string isi nya angka maka di anggap seperti angka"
